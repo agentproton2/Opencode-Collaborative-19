@@ -786,6 +786,14 @@
 			"github"    : "https://github.com/nikolai6303",
 			"twitter"   : "",
 			"referral"  : ""
-	    }
+	    },
+	    {
+		         "name"      : "agentproton2",
+			"imageur1"  : "assets/img/participants/agentproton2.jpg",
+			"about"	    : "noob",
+			"college"   : "IIIT Allahabad",
+			"github"    : "https://github.com/agentproton2",
+			"twitter"   : "",
+			"referral"  : ""
     ]
 }
